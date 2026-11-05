@@ -1,0 +1,8 @@
+__pycache__/
+.venv/
+outputs/
+.video-down/
+*.part*
+*.ytdl
+*.mp4
+*.log
